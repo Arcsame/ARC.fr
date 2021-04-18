@@ -1,5 +1,4 @@
-# ARC.fr
-doc fr
+DOCUMENT EN FRANCAIS
 <!DOCTYPE html>
 <html lang="fr">
 <head>
